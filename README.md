@@ -1,4 +1,4 @@
-👋 Ola eu sou Jaelson Pereira
+👋 Ola eu sou Jaelson Pereira, desenvolvedor web em treinamento minha tinho um sonho que conseguir uma vaga na area portanto me esforço cada dia mais para aprender, por enquanto sou apenas um curioso que gosta muito de tecnologia, que trabalha a varios anos como telemarketing, pois é nada facil, estou tentado mudar tudo cada dia.
 
 <div align="center">
   <a href="https://github.com/jaelps">
