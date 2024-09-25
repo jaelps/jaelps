@@ -15,7 +15,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
   <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
   <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-  <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" />
+  <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
   
   
 
